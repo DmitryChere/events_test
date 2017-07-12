@@ -1,0 +1,32 @@
+.content-wrap {
+    padding-top: 30px;
+}
+
+.content-wrap button {
+    margin-bottom: 10px;
+}
+
+.input-group {
+    margin-bottom: 18px;
+}
+
+.input-group .form-control:last-child {
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.panel {
+    margin-bottom: 10px;
+}
+
+.none {
+    display: none;
+}
+
+.switch button {
+    outline: none !important;
+}
+
+textarea {
+    resize: none;
+}
